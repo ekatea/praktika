@@ -10,6 +10,7 @@ using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Reflection;
 using W = Microsoft.Office.Interop.Word;
 
 namespace WindowsFormsApp1
@@ -21,15 +22,16 @@ namespace WindowsFormsApp1
             InitializeComponent();
             
         }
-        private void Form1_Load(object sender, EventArgs e)
+        private void frm_Load(object sender, EventArgs e)
         {
 
         }
         private void btn1_Click(object sender, EventArgs e)
         {
-            Object EndOfDoc = "\\endofdoc";
+            object EndOfDoc = "\\endofdoc";
             W.Application oWord = new W.Application();
             W.Document oDoc = oWord.Documents.Add();
+            object ObjMissing = Missing.Value; 
 
             W.Paragraph oPrg = oDoc.Paragraphs.Add();
 
@@ -125,8 +127,9 @@ namespace WindowsFormsApp1
             oWord.Visible = true;
 
 
+            table(EndOfDoc, oDoc, ref ObjMissing);
 
-
+            /*
             //Таблица
             oDoc.PageSetup.TopMargin = 0.75f / 0.03f;
             oDoc.PageSetup.BottomMargin = 0.75f / 0.03f;
@@ -160,22 +163,21 @@ namespace WindowsFormsApp1
             wordcellrange.Text = "Преподаватель";
             wordcellrange.Borders[WdBorderType.wdBorderRight].ColorIndex = W.WdColorIndex.wdWhite;
             wordcellrange.Borders[WdBorderType.wdBorderBottom].ColorIndex = W.WdColorIndex.wdWhite;
-
+            */
 
         }
-        /*
-        private void table(object ObjMissing, W.Document ObjDoc)
+
+        private void table(object EndOfDoc, W.Document ObjDoc, ref object ObjMissing)
         {
-        object EndOfDoc = "\\endofdoc";
-        W.Table ObjTable;
-        W.Range ObjWordRange;
-        ObjWordRange = ObjDoc.Bookmarks.get_Item(ref EndOfDoc).Range;
-        ObjTable = ObjDoc.Tables.Add(ObjWordRange, 6, 2, ref ObjMissing, ref ObjMissing);
-        ObjTable.Range.ParagraphFormat.SpaceAfter = 0;
-        ObjTable.Cell(1, 1).Range.Text = "Выполнил: ";
-        ObjTable.Cell(1, 1).Width = 1;
+            W.Table ObjTable;
+            W.Range ObjWordRange;
+            ObjWordRange = ObjDoc.Bookmarks.get_Item(ref EndOfDoc).Range;
+            ObjTable = ObjDoc.Tables.Add(ObjWordRange, 6, 2, ref ObjMissing, ref ObjMissing);
+            ObjTable.Range.ParagraphFormat.SpaceAfter = 0;
+            ObjTable.Cell(1, 1).Range.Text = "Выполнил: ";
+            ObjTable.Cell(1, 1).Width = 1;
         }
-        */
+
     }
 
 }

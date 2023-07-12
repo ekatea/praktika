@@ -10,3 +10,13 @@ C:\Users\Ermolina Kate\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\
 C:\Users\Ermolina Kate\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\Ermolina Kate\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Ermolina Kate\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm.resources
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\flash\Documents\ТУУ-211 практика\Ермолина\praktika\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
