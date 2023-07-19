@@ -10,3 +10,13 @@ C:\Users\Ermolina Kate\source\repos\Задание 1.2\Задание 1.2\bin\De
 C:\Users\Ermolina Kate\source\repos\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.pdb
 C:\Users\Ermolina Kate\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.exe
 C:\Users\Ermolina Kate\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.pdb
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe.config
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.pdb
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csprojAssemblyReference.cache
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.ResolveComReference.cache
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.frmMain.resources
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Properties.Resources.resources
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.GenerateResource.cache
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.exe
+C:\Users\Сафронов А И\Documents\ТУУ-211\Ермолина\praktika\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.pdb
